@@ -1,5 +1,10 @@
-.venv/
+# Python
 __pycache__/
 *.pyc
-reports/
+.venv/
+
+# Pytest
 .pytest_cache/
+
+# Reports (generated)
+reports/
